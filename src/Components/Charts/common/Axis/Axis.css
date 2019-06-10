@@ -1,0 +1,14 @@
+.Axis path,
+.Axis line {
+  stroke: rgb(141, 137, 137);
+}
+
+.Axis text {
+  font-size: 11px;
+  fill: lightgrey;
+}
+
+.Axis-Bottom text {
+  transform: rotate(-40deg);
+  text-anchor: end;
+}

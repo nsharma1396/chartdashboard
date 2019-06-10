@@ -1,0 +1,11 @@
+.links-container {
+  max-height: 90%;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.link-item {
+    list-style-type: none;
+    text-transform: capitalize;
+    margin: 10px 0;
+}

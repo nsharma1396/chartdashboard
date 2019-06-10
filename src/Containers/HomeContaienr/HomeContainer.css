@@ -1,0 +1,18 @@
+.layout {
+    min-height: 100vh !important;
+    /* color: white !important; */
+}
+
+.layout * {
+    color: lightgrey !important;
+}
+
+.page-header {
+    padding: 0 !important;
+}
+
+.page-layout {
+    padding: 1em;
+    padding-bottom: 0;
+    background: #111518;
+}
