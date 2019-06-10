@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/chartdashboard/static/css/main.97094b4d.chunk.css",
+    "main.js": "/chartdashboard/static/js/main.abfa50d5.chunk.js",
+    "main.js.map": "/chartdashboard/static/js/main.abfa50d5.chunk.js.map",
+    "runtime~main.js": "/chartdashboard/static/js/runtime~main.745f7b34.js",
+    "runtime~main.js.map": "/chartdashboard/static/js/runtime~main.745f7b34.js.map",
+    "static/css/2.33bbdc9a.chunk.css": "/chartdashboard/static/css/2.33bbdc9a.chunk.css",
+    "static/js/2.e22bb3a0.chunk.js": "/chartdashboard/static/js/2.e22bb3a0.chunk.js",
+    "static/js/2.e22bb3a0.chunk.js.map": "/chartdashboard/static/js/2.e22bb3a0.chunk.js.map",
+    "index.html": "/chartdashboard/index.html",
+    "precache-manifest.a74d693427c71fd0988b92ae975669cf.js": "/chartdashboard/precache-manifest.a74d693427c71fd0988b92ae975669cf.js",
+    "service-worker.js": "/chartdashboard/service-worker.js",
+    "static/css/2.33bbdc9a.chunk.css.map": "/chartdashboard/static/css/2.33bbdc9a.chunk.css.map",
+    "static/css/main.97094b4d.chunk.css.map": "/chartdashboard/static/css/main.97094b4d.chunk.css.map"
+  }
+}
